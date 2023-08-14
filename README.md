@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm making a florr.io clone :) ideas from: m28, Zert, and SpicyBoi
 
 <!--
 **ThePeaKeeper/thepeakeeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
